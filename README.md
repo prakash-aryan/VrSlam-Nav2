@@ -35,7 +35,7 @@ The video showcases the Turtlebot3 robot navigating through the virtual room, de
 
 ## License
 
-prakash-aryan/VrSlam-Nav2 is licensed under the Mozilla Public License 2.0
+[prakash-aryan/VrSlam-Nav2](git@github.com:prakash-aryan/VrSlam-Nav2.git), is licensed under the Mozilla Public License 2.0
 Permissions of this weak copyleft license are conditioned on making available source code of licensed files and modifications of those files under the same license (or in certain cases, one of the GNU licenses). Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work may be distributed under different terms and without source code for files added in the larger work.
 ## Contributions
 
