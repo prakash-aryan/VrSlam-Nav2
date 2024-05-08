@@ -43,4 +43,4 @@ As the project is still in its early stages, contributions are not being accepte
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding this project, please feel free to reach out to the project maintainer at [email@example.com](mailto:prakasharyan25@gmail.com). We value your input and look forward to hearing from you!
+If you have any questions, suggestions, or feedback regarding this project, please feel free to reach out to the project maintainer at [email](mailto:prakasharyan25@gmail.com). We value your input and look forward to hearing from you!
